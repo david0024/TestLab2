@@ -4,7 +4,7 @@
 int function(int x)
 {
 	x = x - 2;
-
+	// alslsladladlasdlasld
 	return x;
 }
 
